@@ -1,0 +1,4 @@
+/* Small custom touches on top of Bootstrap */
+.task-done .task-title { text-decoration: line-through; color: #6c757d; }
+.card { border: 0; box-shadow: 0 2px 8px rgba(0, 0, 0, .08); }
+.auth-card { max-width: 440px; margin: 2rem auto; }
